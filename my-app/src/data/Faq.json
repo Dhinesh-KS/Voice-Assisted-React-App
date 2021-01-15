@@ -2,56 +2,51 @@
     {
       "id": 1,
       "question": "What can I do here?",
-      "answer": "This is the E-commerce Support's frequently asked questions. You can ask questions about creating an account, order payment options, checking the status of your order or return requests."
+      "answer": "This is a voice assisted app to get to know frequently asked basic react questions. Please tap the mic on right bottom and you can ask questions on react topics"
     },
     {
       "id": 2,
-      "question": "How do I create an account?",
-      "answer": "You can create your account by entering and verifying your mobile number. Click on \"Create New Account\" after that and fill up the form to create your account."
+      "question": "What is react?",
+      "answer": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies."
     },
     {
       "id": 3,
-      "question": "How can I pay for my order?",
-      "answer": "We support the following payment options:\n Cash On Delivery (available in selected pin codes), \nCredit Card, \nDebit Card, \nNet banking and \nGift Card."
+      "question": "What are React’s Key Features?",
+      "answer": "Virtual DOM, JSX, Unidirectional Data Flow, Server-Side Rendering"
     },
     {
       "id": 4,
-      "question": "How can I check delivery to my PIN Code?",
-      "answer": "You can find out if we deliver to your PIN Code using the courier serviceability tool available on the product page."
+      "question": "What is JSX?",
+      "answer": "JSX is a Javascript syntax extension that allows us to write HTML in our JavaScript to create React Elements."
     },
     {
       "id": 5,
-      "question": "How do I check the status of my order?",
-      "answer": "Please tap on \"My Orders\" section under main menu of App or Website to check your order status."
+      "question": "What is a Component in React and what are the two main ways to define them?",
+      "answer": "Component are an independent reusable piece of the UI. There are two main types of components that make up an application and they are class components and functional components"
     },
     {
       "id": 6,
-      "question": "What is the Cancellation Policy?",
-      "answer": "You can cancel an order when it is in packed or shipped status, as long as the cancel option is available on App or Website."
+      "question": "What is class component in react?",
+      "answer": "Class components are JavaScript ES2015 classes that extend a base class from React called Component.This gives the class App access to the React lifecycle methods like render as well as state/props functionality from the parent."
     },
     {
       "id": 7,
-      "question": "How do I cancel my Order?",
-      "answer": "Tap on \"My Orders\" section under the main menu of your App or Website and then select the item or order you want to cancel"
+      "question": "What is a functional component in react?",
+      "answer": "Functional components are simpler. They don’t manage their own state or have access to the lifecycle methods provided by React Native. They are literally plain old JavaScript functions, and are sometimes called stateless components."
     },
     {
       "id": 8,
-      "question": "I just cancelled my order. When will I receive my refund?",
-      "answer": "For payments made via Credit Card, Debit Card, Net Banking, or Wallet you will receive refund into the source account within 7-10 days from the time of order cancellation."
+      "question": "What are React Hooks?",
+      "answer": "Hooks are New feature in React 16.8. Allows function components to use state and other previous class-only features. Backwards compatible and optional"
     },
     {
       "id": 9,
-      "question": "How do I create a Return Request?",
-      "answer": "You can create a Return in three simple steps.\n 1. Tap on My Orders. \n 2. Choose the item to be Returned. \n 3.Enter details requested and create a return request."
+      "question": "What is Redux?",
+      "answer": "Redux is a library for managing application state. Redux is a solution for global state management, allowing you to pass data without the need to pass props through every level (aka props drilling)"
     },
     {
       "id": 10,
-      "question": "How do I return multiple products from a single order?",
-      "answer": "If you are returning multiple products from a single order then, you will receive a separate Return ID via e-mail for each item. If you are self-shipping the products, you can ship all the products in a single shipment."
-    },
-    {
-      "id": 11,
-      "question": "How long would it take me to receive the refund of the returned product?",
-      "answer": "After the refund has been initiated as per the Returns Policy, the refund amount is expected to reflect in the customer account in 1-3 business days."
+      "question": "What are props and state in React?",
+      "answer": "Props is the JavaScript object, passed into a Component, that holds the configuration properties. props is immutable by the receiving Component. state is the JavaScript object, managed within the Component, that holds its internal state."
     }
   ]

@@ -6,7 +6,7 @@ function Navbar({ toggleColorFlag }) {
   return (
     <Flex align="center" boxShadow="base" p="2" mb="2">
       <Box p="2">
-        <Heading size="lg">E-Commerce Support</Heading>
+        <Heading size="lg">REACT FAQ's</Heading>
       </Box>
       <Spacer />
       <Box>
